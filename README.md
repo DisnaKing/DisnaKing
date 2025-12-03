@@ -27,12 +27,10 @@
   ![Forks](https://img.shields.io/github/forks/DisnaKing?color=green)
   
   
-<!-- JDM Car Drift Snake 🚗 -->
+<!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/DisnaKing/DisnaKing/output/github-contribution-grid-car-dark.svg" />
-  <img alt="JDM Car Snake" 
-    src="https://raw.githubusercontent.com/DisnaKing/DisnaKing/output/github-contribution-grid-car.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg" />
 </picture>
   
   <br><br>
