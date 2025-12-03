@@ -1,9 +1,9 @@
-name: Generate JDM Car Snake
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # every 12 hours
-  workflow_dispatch:
+    - cron: "0 */12 * * *"  # Runs every 12 hours (adjust if you want daily)
+  workflow_dispatch:  # Lets you run it manually from Actions tab
 
 jobs:
   generate:
@@ -11,16 +11,17 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate snake (normal + CAR VERSION 🚗)
+      # Generates the snake SVG files
+      - name: Generate snake
+        id: snake-gif
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-car.svg?car=car&color_snake=39FF14&color_dots=#151515,#333333,#39FF14,#FFFFFF,#FF0000
-            dist/github-contribution-grid-car-dark.svg?car=car&color_snake=39FF14&color_dots=#010409,#0D1117,#39FF14,#FFFFFF,#FF0000
 
+      # Pushes files to the "output" branch (creates it if needed)
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
