@@ -1,15 +1,10 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/31e4f1e9-7e3d-4e89-8c3d-9e8f8e8f8e8f" width=100% />
-  <br><br>
+
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ghgdaddji6wfd42eq33scvixdi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=3d3846&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ghgdaddji6wfd42eq33scvixdi&redirect=true)
+ 
+   <br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&lines=Hey+I'm+@YOURUSERNAME;Full-Stack+%7C+Cybersec+%7C+Open+Source;Currently+building+cool+stuff+%F0%9F%94%A5" alt="Typing SVG" />
-  
-  <br>
-  
-  <!-- Social badges -->
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:you@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+
   
   <br><br>
   
@@ -22,6 +17,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DisnaKing&layout=compact&theme=react&hide_border=true&hide=html,css"/>
   
   <br><br>
+
+  <!-- Social badges -->
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:you@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  ![Stars](https://img.shields.io/github/stars/DisnaKing?color=orange)
+  ![Forks](https://img.shields.io/github/forks/DisnaKing?color=green)
+  
   
 <!-- JDM Car Drift Snake 🚗 -->
 <picture>
@@ -32,6 +35,8 @@
 </picture>
   
   <br><br>
+  
+
   
   <img src="https://komarev.com/ghpvc/?username=DisnaKing&label=Profile+views&color=000000&style=flat-square" />
 </div>
