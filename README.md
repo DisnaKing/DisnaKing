@@ -1,5 +1,9 @@
 # 💫 About Me:
-DAM (Multiplatform App Development) student 👨‍💻  <br>Currently learning: Java, Kotlin, Android, Flutter, Spring Boot, JavaScript  <br>Building cross-platform apps & personal projects 🚀  <br>Open to collaborations!
+Studies : DAM (Multiplatform App Development) & SMR (IT and network)  <br>
+
+## Skills
+Java, Flutter, Spring Boot, JavaScript, SQL, PostgreSQL, DART, Typescript,  <br>
+Building cross-platform apps & personal projects 🚀
 
 
 ## 🌐 Socials:
