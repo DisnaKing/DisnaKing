@@ -1,7 +1,6 @@
 # Guillem Rodríguez
 
-> Desarrollador fullstack. Construyo el backend que resuelve el problema 
-> y la interfaz desde la que alguien lo usa de verdad.
+> Desarrollador fullstack. 
 
 ---
 
