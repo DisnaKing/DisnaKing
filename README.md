@@ -29,7 +29,7 @@ frontend cuando sabes lo que cuesta servirlas.
 
 ## 🚀 Proyectos destacados
 
-### Aparcaloo · [aparcaloo.com](https://aparcaloo.com) · [repo](PENDIENTE)
+### Aparcaloo · [aparcaloo.com](https://aparcaloo.com) · 
 **El problema:** dar vueltas buscando aparcamiento en ciudad.  
 **Qué construí:** app multiplataforma de principio a fin —interfaz en Flutter y 
 backend sobre Supabase—, desarrollada en equipo, con control de versiones en Git 
@@ -49,7 +49,7 @@ de contexto.
 **Lo interesante:** la parte difícil no fue el scraping, sino decidir cómo 
 segmentar el contenido para que el agente recuperase contexto útil.
 
-### Gestor de citas · [repo](PENDIENTE)
+### Gestor de citas · [repo](https://github.com/DisnaKing/Hueco)
 **El problema:** los negocios de servicios (peluquerías, centros de estética) 
 siguen gestionando su agenda en libretas y WhatsApp.  
 **Qué construí:** el backend en Spring Boot con arquitectura por capas (controller, 
