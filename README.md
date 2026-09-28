@@ -55,7 +55,7 @@ siguen gestionando su agenda en libretas y WhatsApp.
 **Qué construí:** el backend en Spring Boot con arquitectura por capas (controller, 
 service, repository, model, dto), modelando citas que agrupan varios servicios y 
 su ciclo de vida por estados. La interfaz de gestión está en construcción.  
-**Stack:** `Java` `Spring Boot` `Hibernate` `PostgreSQL`  
+**Stack:** `Java` `Spring Boot` `React` 
 **Lo interesante:** proyecto propio donde practico diseño de dominio sin las 
 prisas de un entregable de cliente.
 
